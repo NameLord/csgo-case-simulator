@@ -2,7 +2,7 @@
 
 Feel like you're losing money without actually losing it!
 
-- Require [Python 2.7.9](https://www.python.org/downloads/windows/).
+- Require [Python Latest](https://www.python.org/downloads/windows/).
 - Require [Py Game](https://www.pygame.org/wiki/GettingStarted).
 
 - to run this project go to (Run/Run Module[F5] ).
