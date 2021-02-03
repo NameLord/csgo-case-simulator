@@ -3,6 +3,7 @@ Original Project By Yolodude25 [Original Project](https://github.com/Yolodude25/
 
 Feel like you're losing money without actually losing it!
 
+## Tutorial How to install and run the Project
 - Require [Python Latest](https://www.python.org/downloads/windows/).
 - Require [Py Game](https://www.pygame.org/wiki/GettingStarted).
 - If you can't install PyGame try Upgrading PIP by doiing [py -m pip install -U pip] In the cmd then try again.
