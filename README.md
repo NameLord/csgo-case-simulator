@@ -1,4 +1,5 @@
 # CS:GO Case Simulator
+Original Project By Yolodude25 [Original Project](https://github.com/Yolodude25/csgo-case-simulator)
 
 Feel like you're losing money without actually losing it!
 
