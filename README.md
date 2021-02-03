@@ -2,6 +2,10 @@
 
 Feel like you're losing money without actually losing it!
 
+Require [Python 2.7.9](https://www.python.org/downloads/windows/)
+to run this project go to (Run/Start)
+
+
 ## Cases
 
 Press the keys in the brackets to open the mentioned case!
