@@ -3,8 +3,10 @@
 Feel like you're losing money without actually losing it!
 
 - Require [Python 2.7.9](https://www.python.org/downloads/windows/).
+- Require [Py Game](https://www.pygame.org/wiki/GettingStarted).
+
 - to run this project go to (Run/Run Module[F5] ).
-- If you have any problem don't hesitate to Dm me. on discord (N_George#0733)
+- If you have any problem don't hesitate to Dm me. on discord (N_George#0733).
 
 
 ## Cases
